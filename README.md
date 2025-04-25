@@ -24,12 +24,12 @@ This repository contains two beginner-friendly Python projects:
 - Interactive command-line interface.
 
 ### ▶️ How to Run
-```bash
 python to-do_app.py
+
+
 ####################################################
 ⚙️ Requirements
 Install the required package:
- 
 pip install colorama
 
 ▶️ How to Run
