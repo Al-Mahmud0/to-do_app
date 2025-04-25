@@ -26,4 +26,14 @@ This repository contains two beginner-friendly Python projects:
 ### ▶️ How to Run
 ```bash
 python to-do_app.py
+####################################################
+⚙️ Requirements
+Install the required package:
+ 
+pip install colorama
 
+▶️ How to Run
+bash
+Copy
+Edit
+python fake_hacking_terminal.py
