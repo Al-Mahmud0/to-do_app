@@ -28,8 +28,11 @@ python to-do_app.py
 
 
 ####################################################
+
 ⚙️ Requirements
+
 Install the required package:
+
 pip install colorama
 
 ▶️ How to Run
